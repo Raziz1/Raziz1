@@ -48,7 +48,7 @@ ___
 ![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=blue-green)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&theme=blue-green)
 
 
 <!--
