@@ -1,8 +1,6 @@
 ### Hi there 👋
-# [![Header](https://raw.githubusercontent.com/Raziz1/Raziz1/main/icon/readme_header.png "Header")](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
-<p>
-  <a href="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg"><img width="150" align='right' src="https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg"></a>
-</p>
+# [![Header](https://raw.githubusercontent.com/Raziz1/Raziz1/icon/readme_header.png "Header")](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
+
 
 
 <!--
