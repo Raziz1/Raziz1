@@ -27,7 +27,28 @@ ___
 </p>
 
 [EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is was my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Evoborne is monetized with ads through Google Admob to help the player unlock an arsenal of ships. Be sure to check it out and give it a rating 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
+
+___
+
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&theme=blue-green)
 
 
 <!--
