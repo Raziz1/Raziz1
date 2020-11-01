@@ -1,6 +1,6 @@
 # [![Header](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)](https://blog.newrelic.com/wp-content/uploads/good-programmer-banner-final.jpg)
 ### Hi there 👋, 
-<p>I'm a student exploring the internet! I have been working on some cool projects and was hoping to share them with the rest of the internet. I'm hoping to find new challenges to tackle and learn from others.</p>
+<p>I'm a student exploring the internet! I have been working on some cool projects and was hoping to share them with the rest of the internet.</p>
 
 ___
 
