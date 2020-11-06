@@ -12,6 +12,11 @@ ___
 
 [Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap) is my second game released on the Google Playstore. Speed Trap is a 3D, arcade, police chase game designed in Unity using the C# language. It includes day/night cycles, animations, particle effects, and numerous vehicles for the player. It also contains a highscore leaderboard that is actively updated throught the internet. This is my second game to be monetized through the use of ads (Google Admob) and is still actively being update. Be sure to check it out and give it a rating 
 
+<br />
+<br />
+<br />
+<br />
+
  
 
 
@@ -22,6 +27,10 @@ ___
 
 [EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is was my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Evoborne is monetized with ads through Google Admob to help the player unlock an arsenal of ships. Be sure to check it out and give it a rating 
 
+<br />
+<br />
+<br />
+<br />
 
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
