@@ -25,7 +25,7 @@ ___
   <img width="250" height="250" align='Right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Icon.png? raw=true">
 </p>
 
-[EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is was my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Evoborne is monetized with ads through Google Admob to help the player unlock an arsenal of ships. Be sure to check it out and give it a rating 
+[EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Evoborne is monetized with ads through Google Admob to help the player unlock an arsenal of ships. Be sure to check it out and give it a rating 
 
 <br />
 <br />
