@@ -20,8 +20,8 @@
 </p> 
 
 [Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap) is my second game released on the Google Playstore. Speed Trap is a 3D, arcade, police chase game designed in Unity using the C# language. It includes day/night cycles, animations, particle effects, and numerous vehicles for the player. It also contains a highscore leaderboard that is actively updated throught the internet. It is still actively being update. Be sure to check it out and give it a rating 
-    * 🎵 Music Coming Soon 🎵
-    * 🍎 Coming to IOS Soon 🍎
+* 🎵 Music Coming Soon 🎵
+* 🍎 Coming to IOS Soon 🍎
 
 <br />
 <br />
