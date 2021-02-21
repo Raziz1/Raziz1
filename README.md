@@ -75,6 +75,9 @@
 ![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=6&theme=blue-green)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Raziz1&&style=flat-square" align="center" />
+</div>  
 
 <!--
 **Raziz1/Raziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
