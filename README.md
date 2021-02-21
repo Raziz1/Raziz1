@@ -19,7 +19,7 @@
     <img width=20% height=20% align='Left' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Logo 3.png? raw=true">
 </p> 
 
-[Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap) is my second game released on the Google Playstore. Speed Trap is a 3D, arcade, police chase game designed in Unity using the C# language. It includes day/night cycles, animations, particle effects, and numerous vehicles for the player. It also contains a highscore leaderboard that is actively updated throught the internet. It is still actively being update. Be sure to check it out and give it a rating 
+[Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap) is my second game released on the Google Playstore. Speed Trap is a 3D, arcade, police chase game designed in Unity using the C# language. It includes day/night cycles, animations, particle effects, and numerous vehicles for the player. It also contains a highscore leaderboard that is actively updated throught the internet. It is still actively being update. Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 * 🎵 Music Coming Soon 🎵
 * 🍎 Coming to IOS Soon 🍎
 
@@ -33,7 +33,7 @@
   <img width=20% height=20% align='Left' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Icon.png? raw=true">
 </p>
 
-[EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Be sure to check it out and give it a rating 
+[EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game) is my first android game developped for the Google Playstore. Evoborne is an extremly simple space arcade shooter. Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library. Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 
 <br />
 <br />
