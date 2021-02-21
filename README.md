@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" align="center" width=100% height=500 />
+</div> 
 
 ### <div align="center">I'm a student 👨‍🎓 exploring the internet! I have been working on some cool projects and was hoping to share them with the rest of the internet.
 
