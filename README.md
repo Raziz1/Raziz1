@@ -14,7 +14,7 @@
   
 
 
-## My Projects  
+## My Projects 📁 
 ### Speed Trap 🚗
 <p> 
     <img width="250" height="250" align='Left' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Logo 3.png? raw=true">
@@ -46,7 +46,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills 🛠  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
