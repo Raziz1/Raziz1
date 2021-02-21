@@ -14,7 +14,7 @@
   
 
 ## My Projects 📁 
-### Speed Trap 🚗
+### Speed Trap 🚗🚓
 <p> 
     <img width=20% height=20% align='Left' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Logo 3.png? raw=true">
 </p> 
@@ -28,7 +28,7 @@
 <br />
 <br />
 
-### EvoBorne 🚀
+### EvoBorne 🚀🌠
 <p> 
   <img width=20% height=20% align='Left' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Icon.png? raw=true">
 </p>
