@@ -67,7 +67,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=blue-green)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Raziz1&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Raziz1&&style=plastic" align="center" />
 </div>  
 
 
