@@ -6,6 +6,8 @@
   
 ## 👋 About Me:
  - I'm a 1st year Engineering student at McMaster University
+ - I plan on specializing in Electrical Engineering
+ - I am apart of Mac's Formula Electric team
  - I enjoy learning new coding skills and applying them in new ways
  - I just got into music production 🎹
  - Talk to me about Android & game developpment
