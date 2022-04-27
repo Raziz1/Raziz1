@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner.png? raw=true" align="center" width=100% height=50% />
+<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner(1).png? raw=true" align="center" width=100% height=50% />
 </div> 
 
 ### <div align="center">I'm a student 👨‍🎓 exploring the internet! I have been working on some cool projects and was hoping to share them with the rest of the internet.
