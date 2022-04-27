@@ -40,7 +40,40 @@
 - Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library
 - Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 
-## Skills 🛠  
+## 🛠 Skills
+`IDE`
+- VS Code
+- Codeblocks
+- PyCharm
+- Android Studio
+
+`Front-End`
+- Javascript
+- HTML 5
+- CSS3
+
+`Coding Languages`
+- Python
+- Java
+- C#
+- C++
+
+`Libraries & Game engines`
+- Unity
+- Box2D
+
+
+`Hardware`
+- Raspberry Pi 4B
+- Arduino
+
+`Other`
+- Autodesk Inventor
+- Blender
+- Ableton Live 
+- Da Vinci Resolve 
+- Photoshop
+
 
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
