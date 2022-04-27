@@ -6,13 +6,11 @@
 
 </div>  
   
-
-- 🔭 I’m currently working on [Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap)  
+## 👋 About Me:
+ - I'm a 1st year Engineering student at McMaster University
+ - I enjoy learning new skills and applying them in new ways
+ - Talk to me about Android & game developpment
   
-
-- ❓ Always looking for new ideas  
-  
-
 ## My Projects 📁 
 ### Speed Trap 🚗🚓
 <p> 
