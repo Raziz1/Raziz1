@@ -41,8 +41,8 @@
 - Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 
 ## 🛠 Skills
-<div align="right">  
- <img width=100% height=100% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Tools.png? raw=true">
+<div>  
+ <img align="right" width=65% height=65% src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Tools.png?">
 </div>
 
 `IDE`
@@ -79,10 +79,7 @@
 - Photoshop
 
 
-
-<br/>  
-
-## Github Stats 📊 
+## 📊Github Stats 
 
 ![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=blue-green)
