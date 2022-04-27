@@ -2,8 +2,8 @@
 <img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20(1).png? raw=true" align="center" width=100% height=50% />
 </div> 
 
-</div>  
-  
+
+<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20(1).png? raw=true" align="center" width=100% height=50% />
 ## 👋 About Me:
  - I'm a 1st year Engineering student at McMaster University
  - I plan on specializing in Electrical Engineering
