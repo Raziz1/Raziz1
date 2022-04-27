@@ -4,7 +4,7 @@
 
 ## 👋 About Me:
 <div align="center">
-<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Logo.png? raw=true" align="right" width=20% height=20% />
+<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
 
  - I'm a 1st year Engineering student at McMaster University
