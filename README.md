@@ -42,7 +42,7 @@
 
 ## 🛠 Skills
 <div align="right">  
- <img width=100% height=100% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20(2).png? raw=true">
+ <img width=100% height=100% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Tools.png? raw=true">
 </div>
 
 `IDE`
