@@ -6,7 +6,8 @@
   
 ## 👋 About Me:
  - I'm a 1st year Engineering student at McMaster University
- - I enjoy learning new skills and applying them in new ways
+ - I enjoy learning new coding skills and applying them in new ways
+ - I just got into music production 🎹
  - Talk to me about Android & game developpment
 
 ## 🚀 I’m currently learning:
