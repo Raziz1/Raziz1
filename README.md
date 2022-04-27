@@ -10,6 +10,9 @@
  - I'm a 1st year Engineering student at McMaster University
  - I enjoy learning new skills and applying them in new ways
  - Talk to me about Android & game developpment
+
+## 🚀 I’m currently learning:
+- ``Boostrap``
   
 ## My Projects 📁 
 ### Speed Trap 🚗🚓
