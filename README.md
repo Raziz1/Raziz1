@@ -8,6 +8,7 @@
 </div> 
 
  - I'm a 1st year Engineering student at McMaster University
+ - I am from Ottawa, Ontario 📍
  - I plan on specializing in Electrical Engineering
  - I am apart of Mac's Formula Electric team
  - I enjoy learning new coding skills and applying them in new ways
