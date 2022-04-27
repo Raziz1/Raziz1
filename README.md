@@ -7,13 +7,13 @@
 <img src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
 
- - I'm a 1st year Engineering student at McMaster University
- - I am from Ottawa, Ontario 📍
- - I plan on specializing in Electrical Engineering
- - I am apart of Mac's Formula Electric team
- - I enjoy learning new coding skills and applying them in new ways
- - I just got into music production 🎹
- - Talk to me about Android & game developpment
+ - 🎓 I'm a 1st year Engineering student at McMaster University
+ - 📍I am from Ottawa, Ontario
+ - ⚡I plan on specializing in Electrical Engineering
+ - 🏎️ I am apart of Mac's Formula Electric team
+ - 💻 I enjoy learning new coding skills and applying them in new ways
+ - 🎹 I just got into music production
+ - 🎮 Talk to me about Android & game developpment
 
 ## 🚀 I’m currently learning:
 - ``Boostrap``
@@ -88,6 +88,11 @@
 <img src="https://komarev.com/ghpvc/?username=Raziz1&&style=plastic" align="center" />
 </div>  
 
+## 📧 Contact Me 
+[![Linkedin Badge](https://img.shields.io/badge/MaanavDalal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maanavdalal/)](https://www.linkedin.com/in/maanavdalal/)
+[![Instagram Badge](https://img.shields.io/badge/Maanav__-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/maanav_/)](https://www.instagram.com/maanav_/)
+[![Spotify Badge](https://img.shields.io/badge/Maanav-1ED760?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/ultimated100)](https://open.spotify.com/user/ultimated100)
+[![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maanavdalal@gmail.com)](mailto:maanavdalal@gmail.com)
 
 <!--
 **Raziz1/Raziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
