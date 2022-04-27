@@ -81,8 +81,8 @@
 
 ## 📊Github Stats 
 
-![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=blue-green)
+![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=yeblu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=yeblu)
 
 ## 📧 Contact Me 
 <div align="center">
