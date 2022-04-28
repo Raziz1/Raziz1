@@ -13,7 +13,7 @@
  - 🏎️ I am apart of Mac's Formula Electric team
  - 💻 I enjoy learning new coding skills and applying them in new ways
  - 🎹 I just got into music production
- - 🎮 Talk to me about Android & game developpment
+ - 🎮 Talk to me about Android & game development
 
 ## 🚀 I’m currently learning
 - ``Boostrap``
