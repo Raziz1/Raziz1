@@ -35,7 +35,7 @@
 
 ### EvoBorne 🚀🌠
 [EvoBorne](https://play.google.com/store/apps/details?id=processing.test.spaceship_game)
-- My first android game developped for the Google Playstore
+- My first Android game developed for the Google Playstore
 - Evoborne is an extremly simple space arcade shooter
 - Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library
 - Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
