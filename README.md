@@ -95,7 +95,7 @@
  </div>
  
  <div>  
- <img align="center" width=100% height=100% src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Bottom.png?">
+ <img align="center" width=100% height=100% src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20Bottom.png?">
 </div>
 
 <!--
