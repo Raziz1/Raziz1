@@ -21,7 +21,7 @@
 ## 📁 My Projects 
 ### Speed Trap 🚗🚓
 <p> 
-    <img width=45% height=45% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Projects.png? raw=true">
+    <img width=45% height=45% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20Bottom.png? raw=true">
 </p> 
 
 [Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap)
