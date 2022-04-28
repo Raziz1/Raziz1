@@ -29,7 +29,6 @@
 - Speed Trap is a 3D, arcade, police chase game designed in Unity using the C# language
 - It includes day/night cycles, animations, particle effects, and numerous vehicles for the player
 - It also contains a highscore leaderboard that is actively updated throught the internet 
-- It is still actively being update. Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 * 🎵 Music Coming Soon 🎵
 * 🍎 Coming to IOS Soon 🍎
 
@@ -38,7 +37,6 @@
 - My first Android game developed for the Google Playstore
 - Evoborne is an extremly simple space arcade shooter
 - Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library
-- Be sure to check it out and give it a rating ⭐⭐⭐⭐⭐
 
 ## 🛠 Skills
 <div>  
