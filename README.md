@@ -2,7 +2,7 @@
 <img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20(1).png? raw=true" align="center" width=100% height=50% />
 </div> 
 
-## 👋 About Me:
+## 👋 About Me
 <div align="center">
 <img src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
@@ -15,7 +15,7 @@
  - 🎹 I just got into music production
  - 🎮 Talk to me about Android & game developpment
 
-## 🚀 I’m currently learning:
+## 🚀 I’m currently learning
 - ``Boostrap``
   
 ## 📁 My Projects 
