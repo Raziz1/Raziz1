@@ -93,6 +93,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maanavdalal@gmail.com)](mailto:rahimaziz31@gmail.com)
  
  </div>
+ 
+ <div>  
+ <img align="center" width=100% height=100% src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Bottom.png?">
+</div>
 
 <!--
 **Raziz1/Raziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
