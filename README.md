@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20(1).png? raw=true" align="center" width=100% height=50% />
+<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner.png? raw=true" align="center" width=100% height=50% />
 </div> 
 
 ## 👋 About Me
