@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner.png? raw=true" align="center" width=100% height=50% />
+<img src="icon/GitHub%20Banner.png? raw=true" align="center" width=100% height=50% />
 </div> 
 
 ## 👋 About Me
 <div align="center">
-<img src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
+<img src="icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
 
  - 🎓 I'm a 1st year Engineering student at McMaster University
@@ -21,7 +21,7 @@
 ## 📁 My Projects 
 ### Speed Trap 🚗🚓
 <p> 
-    <img width=45% height=45% align='right' src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Projects.png? raw=true">
+    <img width=45% height=45% align='right' src="icon/GitHub%20Projects.png? raw=true">
 </p> 
 
 [Speed Trap](https://play.google.com/store/apps/details?id=com.DefaultCompany.SpeedTrap)
@@ -40,7 +40,7 @@
 
 ## 🛠 Skills
 <div>  
- <img align="right" width=80% height=80% src="https://github.com/Raziz1/Raziz1/blob/main/icon/Github%20Banner%20Tools.png?">
+ <img align="right" width=80% height=80% src="icon/Github%20Banner%20Tools.png?">
 </div>
 
 `IDE`
@@ -93,7 +93,7 @@
  </div>
  
  <div>  
- <img align="center" width=100% height=100% src="https://github.com/Raziz1/Raziz1/blob/main/icon/GitHub%20Banner%20Bottom.png?">
+ <img align="center" width=100% height=100% src="icon/GitHub%20Banner%20Bottom.png?">
 </div>
 
 <!--
