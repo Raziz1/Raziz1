@@ -9,7 +9,6 @@
 
  - 🎓 I'm a 2nd year Electrical Engineering student at McMaster University
  - 📍I am from Ottawa, Ontario
- - ⚡I plan on specializing in Electrical Engineering
  - 🏎️ I am apart of Mac's Formula Electric team
  - 💻 I enjoy learning new coding skills and applying them in new ways
  - 🎹 I just got into music production
