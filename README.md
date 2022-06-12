@@ -85,8 +85,6 @@
 <div align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-Rahim%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahim-aziz-a73a00208/)](https://www.linkedin.com/in/rahim-aziz-a73a00208/)
-[![Instagram Badge](https://img.shields.io/badge/-Rahim%20Aziz-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/maanav_/)](https://www.instagram.com/raziz54/)
-[![Spotify Badge](https://img.shields.io/badge/-Rahim%20Aziz-1ED760?style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/ultimated100)](https://open.spotify.com/user/raherm%3F)
 [![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maanavdalal@gmail.com)](mailto:rahimaziz31@gmail.com)
  
  </div>
