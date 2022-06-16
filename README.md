@@ -7,7 +7,7 @@
 <img src="icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
 
- - 🎓 I'm a 2nd year Electrical Engineering student at McMaster University
+ - 🎓 I am a 2nd year Electrical Engineering student at McMaster University
  - 📍I am from Ottawa, Ontario
  - 🏎️ I am apart of Mac's Formula Electric team
  - 💻 I enjoy learning new coding skills and applying them in new ways
