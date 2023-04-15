@@ -7,15 +7,17 @@
 <img src="icon/Github%20Logo.png? raw=true" align="right" width=25% height=25% />
 </div> 
 
- - 🎓 I am a 2nd year Electrical Engineering student at McMaster University
- - 📍I am from Ottawa, Ontario
- - 🏎️ I am apart of Mac's Formula Electric team
- - 💻 I enjoy learning new coding skills and applying them in new ways
- - 🎹 I just got into music production
- - 🎮 Talk to me about Android & game development
+ - ⚡ I am a 2nd year Electrical Engineering student @ McMaster University
+ - 📍 Hometown is Ottawa, Ontario
+ - 🏎️ Currently an electrical subteam member of the Mac Formula Electric team
+ - 🔌 Currently on co-op @ Ciena as an electro-optics firmware intern
+ - 💡 Intrested in hardware design and embedded systems
+ - 🎹 Currently exploring music production
+ - 🌐 Check out my personal portfolio website at the following [LINK](https://raziz1.github.io/)
+
 
 ## 🚀 I’m currently learning
-- ``Boostrap``
+- ``Altium Designer``
   
 ## 📁 My Projects 
 ### Speed Trap 🚗🚓
@@ -77,10 +79,12 @@
 
 
 ## 📊Github Stats 
+<div align="center">
 
 ![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=yeblu)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=yeblu)
-
+</div>
+ 
 ## 📧 Contact Me 
 <div align="center">
  
