@@ -40,42 +40,32 @@
 - Evoborne was created in Android studio using the processing core, Box2D, and Controlp5 library
 
 ## 🛠 Skills
+<!--
 <div>  
  <img align="right" width=80% height=80% src="icon/Github%20Banner%20Tools.png?">
 </div>
+-->
 
-`IDE`
-- VS Code
-- Codeblocks
-- PyCharm
-- Android Studio
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,matlab,py" />
+  </a>
+</p>
 
-`Front-End`
-- Javascript
-- HTML 5
-- CSS3
+### IDE
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,androidstudio,vscode,visualstudio" />
+  </a>
+</p>
 
-`Coding Languages`
-- Python
-- Java
-- C#
-- C++
-
-`Libraries & Game engines`
-- Unity
-- Box2D
-- Processing
-
-`Hardware`
-- Raspberry Pi 4B
-- Arduino
-
-`Other`
-- Autodesk Inventor
-- Blender
-- Ableton Live 
-- Da Vinci Resolve 
-- Photoshop
+### Other
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,unity,github,gitlab,ableton" />
+  </a>
+</p>
 
 
 ## 📊Github Stats 
