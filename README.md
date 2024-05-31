@@ -10,8 +10,9 @@
  - ⚡ I am a 3rd year Electrical Engineering student @ McMaster University
  - 📍 Hometown is Ottawa, Ontario
  - 🏎️ Currently an electrical subteam member of the Mac Formula Electric team
- - 🔌 Currently on co-op @ Ciena as an NPI hardware intern
+ - 🔌 Currently on co-op @ Ford as an hardware development intern
  - ⌛ Previous electro optics firmware co-op @ Ciena
+ - ⌛ Previous NPI Hardware co-op @ Ciena
  - 💡 Intrested in hardware design and embedded systems
  - 🎹 Currently exploring music production
  - 🌐 Check out my personal portfolio website at the following [LINK](https://raziz1.github.io/)
