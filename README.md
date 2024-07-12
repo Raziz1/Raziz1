@@ -8,7 +8,6 @@
 </div> 
 
  - ⚡ I am a 3rd year Electrical Engineering student @ McMaster University
- - 📍 Hometown is Ottawa, Ontario
  - 🏎️ Currently an electrical subteam member of the Mac Formula Electric team
  - 🔌 Currently on co-op @ Ford as an hardware development intern
  - ⌛ Previous electro optics firmware co-op @ Ciena
