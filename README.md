@@ -79,9 +79,7 @@
 ## 📧 Contact Me 
 <div align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-Rahim%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahim-aziz-a73a00208/)](https://www.linkedin.com/in/rahim-aziz-a73a00208/)
-[![Gmail Badge](https://img.shields.io/badge/Email_me!-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maanavdalal@gmail.com)](mailto:rahimaziz31@gmail.com)
- 
+[![Linkedin Badge](https://img.shields.io/badge/-Rahim%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahim-aziz-a73a00208/)](https://www.linkedin.com/in/rahim-aziz-a73a00208/) 
  </div>
  
  <div>  
