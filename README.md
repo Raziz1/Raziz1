@@ -75,16 +75,6 @@
 ![Raziz1 github stats](https://github-readme-stats.vercel.app/api?username=Raziz1&theme=yeblu)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziz1&layout=compact&langs_count=8&theme=yeblu)
 </div>
- 
-## 📧 Contact Me 
-<div align="center">
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Rahim%20Aziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahim-aziz-a73a00208/)](https://www.linkedin.com/in/rahim-aziz-a73a00208/) 
- </div>
- 
- <div>  
- <img align="center" width=100% height=100% src="icon/GitHub%20Banner%20Bottom.png?">
-</div>
 
 <!--
 **Raziz1/Raziz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
