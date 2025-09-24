@@ -8,10 +8,12 @@
 </div> 
 
  - ⚡ I am a 3rd year Electrical Engineering student @ McMaster University
- - 🏎️ Currently an electrical subteam member of the Mac Formula Electric team
- - 🔌 Currently on co-op @ Ford as an hardware development intern
- - ⌛ Previous electro optics firmware co-op @ Ciena
- - ⌛ Previous NPI Hardware co-op @ Ciena
+ - 🏎️ Currently the HV Electronics subteam lead @ Mac Formula Electric team
+ - 🔌 Currently on co-op @ Harbinger as an power electronics intern
+ - ⌛ Previous avionics & electrical intern co-op @ NordSpace
+ - ⌛ Previous hardware development intern @ Ford
+ - ⌛ Previous electro optics firmware intern @ Ciena
+ - ⌛ Previous NPI hardware intern @ Ciena
  - 💡 Intrested in hardware design and embedded systems
  - 🎹 Currently exploring music production
  - 🌐 Check out my personal portfolio website at the following [LINK](https://raziz1.github.io/)
